@@ -15,7 +15,7 @@
 **Donate link:** https://www.wielebenwir.de/verein/unterstutzen  
 **Tags:** booking, commons, sharing  
 **Requires at least:** 3.9  
-**Tested up to:** 4.9.8
+**Tested up to:** 5.4
 **Stable Tag:** 0.9.3
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
@@ -105,11 +105,14 @@ New in this version:
 ## Changelog 
 
 
-### 0.9.4.6
+### 0.9.4.7
+
+* Fixed: Past bookings could be canceled.
+
+### 0.9.4.5
 
 * Maintenance: Better messages on max booking days error
 * Fixed: Password reset mail function & redirect (thanks, poilu!)
-* Fixed: Past bookings could be canceled.
 
 ### 0.9.4.5
 
